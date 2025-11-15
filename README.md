@@ -18,6 +18,8 @@ A curated collection of beginner-friendly Python scripts that demonstrate automa
 | 8 | **CountDown Timer**         | A countdown timer for tracking remaining time.                                         | [🔗 View Code](https://github.com/Badal-06/Mini_Python_Projects/blob/main/PROJECT_8/CountDown%20Timer.py)         |
 | 9 | **COVID-19 Tracker**        | Track COVID-19 statistics using online data sources.                                   | [🔗 View Code](https://github.com/Badal-06/Mini_Python_Projects/blob/main/PROJECT_9/COVID-19%20Tracker.py)        |
 | 10 | **Currency Converter**      | Convert currencies using exchange rates.                                                | [🔗 View Code](https://github.com/Badal-06/Mini_Python_Projects/blob/main/PROJECT_10/Currency%20Converter.py)     |
+| 11 | **Dice Rolling Simulator** | Simulate rolling dice with configurable number of dice and sides.                       | [🔗 View Code](https://github.com/Badal-06/Mini_Python_Projects/blob/main/PROJECT_11/Dice%20Rolling%20Simulator.py) |
+| 12 | **Expense Tracker**        | Track expenses and calculate totals to manage personal finances.                        | [🔗 View Code](https://github.com/Badal-06/Mini_Python_Projects/blob/main/PROJECT_12/Expense%20Tracker.py)         |
 
 ---
 
