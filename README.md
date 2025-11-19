@@ -20,6 +20,8 @@ A curated collection of beginner-friendly Python scripts that demonstrate automa
 | 10 | **Currency Converter**      | Convert currencies using exchange rates.                                                | [🔗 View Code](https://github.com/Badal-06/Mini_Python_Projects/blob/main/PROJECT_10/Currency%20Converter.py)     |
 | 11 | **Dice Rolling Simulator** | Simulate rolling dice with configurable number of dice and sides.                       | [🔗 View Code](https://github.com/Badal-06/Mini_Python_Projects/blob/main/PROJECT_11/Dice%20Rolling%20Simulator.py) |
 | 12 | **Expense Tracker**        | Track expenses and calculate totals to manage personal finances.                        | [🔗 View Code](https://github.com/Badal-06/Mini_Python_Projects/blob/main/PROJECT_12/Expense%20Tracker.py)         |
+| 13 | **File Organizer**         | Automatically organize files in directories based on file type and extension.           | [🔗 View Code](https://github.com/Badal-06/Mini_Python_Projects/blob/main/PROJECT_13/File%20Organizer.py)         |
+| 14 | **Guess Number Game**      | An interactive number guessing game where the computer picks a random number.           | [🔗 View Code](https://github.com/Badal-06/Mini_Python_Projects/blob/main/PROJECT_14/Guess%20Number%20Game.py)    |
 
 ---
 
